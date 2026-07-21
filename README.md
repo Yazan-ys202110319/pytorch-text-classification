@@ -11,6 +11,8 @@ The goal is to learn PyTorch by implementing a news classifier step by step. The
 
 The project uses the AG News dataset, which contains news headlines and descriptions grouped into four categories:
 
+You can view the dataset here: [Hugging Face AG News](https://huggingface.co/datasets/fancyzhx/ag_news)
+
 - World
 - Sports
 - Business
